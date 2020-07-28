@@ -19,7 +19,7 @@ function App() {
       <FooterTimao>
         <LogoTimao />
         <p>
-          Site feito na <HighlightTimao>#ImersãoReact</HighlightTimao> da {' '}
+          Site feito na <HighlightTimao>#ImersãoReact</HighlightTimao> da &nbsp;
           <LinkTimao href="https://alura.com.br">Alura</LinkTimao>
         </p>
       </FooterTimao>
